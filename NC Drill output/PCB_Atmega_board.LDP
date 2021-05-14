@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\PCB design\Udemy_Learn_to_Design_Your_Own_Boards_2020-4.part1_Downloadly.ir\Atmega_board\PCB_Atmega_board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_atmega_board-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_atmega_board-slotholes.txt|DrillLayers=gtl,gbl
